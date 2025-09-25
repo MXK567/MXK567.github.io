@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://mxk567.github.io/sitemap.xml
